@@ -64,9 +64,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 ### Métricas de Evaluación
 - **Accuracy**: 90.8%
-- **Precision**: Alta para ambas clases
-- **Recall**: Balanceado entre Extrovert/Introvert
-- **F1-Score**: Consistente y robusto
+
 
 ### Matriz de Confusión
 ```
